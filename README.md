@@ -1,4 +1,4 @@
-# Error HandlingPractice
+# Error Handling Practice
 
 ## Backend Installation / Set up
 
